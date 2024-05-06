@@ -95,8 +95,8 @@ word2idx = {w: i + 1 for i, w in enumerate(words)}
 tag2idx = {t: i for i, t in enumerate(tags)}
 word2idx
 tag2idx
-print("Sriram G")
-print("212222230149")
+print("POOJA A")
+print("212222240072")
 plt.hist([len(s) for s in sentences], bins=50)
 plt.show()
 X1 = [[word2idx[w[0]] for w in s] for s in sentences]
@@ -138,8 +138,8 @@ history = model.fit(
 )
 metrics = pd.DataFrame(model.history.history)
 metrics.head()
-print("Sriram G")
-print("212222230149")
+print("Pooja A")
+print("212222240072")
 metrics[['accuracy','val_accuracy']].plot()
 metrics[['loss','val_loss']].plot()
 i = 20
