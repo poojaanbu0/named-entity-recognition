@@ -42,12 +42,12 @@ Compile the model and fit the train sets and validation sets.
 Plot the necessary graphs for analysis. A custom prediction is done to test the model manually.
 
 ## PROGRAM
-
-Developed By: POOJA A
-
-Register Number: 212222240072
-
 ```
+Developed By: POOJA A
+Register Number: 212222240072
+```
+
+```python
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
