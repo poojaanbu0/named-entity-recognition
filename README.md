@@ -163,7 +163,8 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ### Sample Text Prediction
 
-![324441719-f5e5c4f3-b7e3-4058-b3b2-d388895b0b32](https://github.com/poojaanbu0/named-entity-recognition/assets/119390329/45090352-ab8c-42f5-a579-0168474c222a)
+![image](https://github.com/poojaanbu0/named-entity-recognition/assets/119390329/6d78b22a-6c03-4df6-bc37-7a19fc9cebb9)
+
 
 
 ## RESULT
